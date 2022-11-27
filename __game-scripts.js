@@ -1,0 +1,1 @@
+var Controll=pc.createScript("controll");Controll.prototype.initialize=function(){},Controll.prototype.update=function(o){};
